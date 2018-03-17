@@ -21,7 +21,7 @@ Options
 - 1x OLED
 - 1x DIY holder
 
-You also need
+You also need:
 - 1x microbit card for ScaraBot Radio Contoller
 
 # Wiring
@@ -33,3 +33,7 @@ The wiring diagram between the microbit's pins and the motors
 # Chassis
 
 The ScaraBot's chassis has been designed with Tinkercad and 3D printed
+
+![Chassis](scarabotevo3D.png)
+
+You can download the [STL file](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed  
