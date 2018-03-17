@@ -23,3 +23,8 @@ Options
 
 You also need
 - 1 x microbit card for ScaraBot Radio Contoller
+
+#Wiring
+The wiring diagram between the microbit's pins and the motors
+
+![Wiring](ScarabotConnect schema.jpg)
