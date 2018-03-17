@@ -28,4 +28,4 @@ You also need
 
 The wiring diagram between the microbit's pins and the motors
 
-![Wiring](ScarabotConnect schema.jpg)
+![Wiring](ScarabotWiring.jpg)
