@@ -14,6 +14,7 @@ The build a ScaraBot EVO Robot you need:
 - 1 x 4.5 - 6V Power Supply  
 - 1 x Servo motor
 - 1 DIY Chassis
+
 Options
 - 1 x OLED
 - 1 x DIY holder
