@@ -5,8 +5,11 @@ A servo motor is used to control the pen lift.
 To allow up and down movement, the pen must have a thick ring that comes into contact with the servo motor arm
 
 The ScaraBot Evo is formed by two main parts:
-- *ScaraBot EVO robot*
-- ScaraBot Radio Controller
+- **ScaraBot EVO robot**
+- **ScaraBot Radio Controller**
+
+ScaraBot Evo can be remote-controlled by a second microbit, the ScaraBot Radio Controller, through radio frequency communication. 
+The **ScaraBot Radio Controller** is like a joypad and depending by how you move it, it sends specifics radio commands to the ScaraBot Evo Robot; for instance: if you roll-down the ScaraBot Radio Controller, it sends the "forward" message to ScaraBot EVO robot.
 
 # Components
 The build a ScaraBot EVO Robot you need:
