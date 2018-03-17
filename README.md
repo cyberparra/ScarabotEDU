@@ -6,26 +6,30 @@ The ScaraBot Evo is formed by two main parts:
 
 # Components
 The build a ScaraBot EVO Robot you need:
-- 2 x DC motors
-- 2 x Right Angle Geared Hobby Motor
-- 2 x Wheel for Geared Hobby Motor
-- 1 X Steel Ball Caster 
-- 1 x microbit card for Robot
-- 1 x Motor Drive board for microbit
-- 1 x 4.5 - 6V Power Supply  
-- 1 x Servo motor
-- 1 DIY Chassis
+- 2x DC motors
+- 2x Right Angle Geared Hobby Motor
+- 2x Wheel for Geared Hobby Motor
+- 1x Steel Ball Caster 
+- 1x microbit card for Robot
+- 1x Motor Drive board for microbit
+- 1x 4.5 - 6V Power Supply  
+- 1x Servo motor
+- 1x DIY Chassis
 - Screws, wires and jumpers
 
 Options
-- 1 x OLED
-- 1 x DIY holder
+- 1x OLED
+- 1x DIY holder
 
 You also need
-- 1 x microbit card for ScaraBot Radio Contoller
+- 1x microbit card for ScaraBot Radio Contoller
 
 # Wiring
 
 The wiring diagram between the microbit's pins and the motors
 
 ![Wiring](ScarabotWiring.jpg)
+
+# Chassis
+
+The ScaraBot's chassis has been designed with Tinkercad and 3D printed
