@@ -29,7 +29,7 @@ You can create and updload a specific program into the micobit to generate the d
 
 ![library](motorslibrary.png)
 
-Here an example of programmed ScaraBot EVO in action: https://youtu.be/s_aYFbvhUnw
+Here an example of programmed ScaraBot EVO in action: https://youtu.be/HeQIrRYyBCM
 
 
 
