@@ -25,7 +25,11 @@ The **ScaraBot Radio Controller** is like a joypad and depending by how you move
 
 
 ## Programming 
-You can create and updload a specific program into the micobit that generates the desired drawing  
+You can create and updload a specific program into the micobit to generate the desired drawings. I have created a library of motor's commands to reduce your coding time, and making it easier. You don't need to think about wich PIN has to be set on/off to obtain a specific movement: just drag the block function you need.
+
+![library](motorslibrary.png)
+
+
 
 
 # Components
