@@ -88,9 +88,14 @@ The OLED display connects to Microbit using four wires:
 
 ![OLEDWiring](OLEDwiring.jpg)
 
+
+### Coding the OLED
+
 In order to program the OLED, you must to add a package inside the microbit.
 Got to _Add Package_ menu inside the _makecode.microbit_ editor and look for tinkeracademy-tinker-kit-
 
 ![OLEDpackage](OLEDpackage.jpg)
 
-When this package is installed e new OLED category appears with several coding blocks inside
+When this package is installed a new OLED category appears with several new coding blocks inside it
+
+
