@@ -7,7 +7,7 @@ To allow up and down movement, the pen must have a thick ring that comes into co
 
 ScaraBot Evo has also an OLED display to shows messages
 
-![ScaraBotEvo](ScaraBotEvo.jpg)
+![ScaraBotEvo](ScaraBotEvo3.jpg)
 
 
 # Features
