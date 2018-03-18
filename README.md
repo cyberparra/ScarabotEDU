@@ -20,8 +20,12 @@ ScaraBot EVO can make  drawings in two ways
 
 ## Remote radio control
 
-ScaraBot Evo can be remote-controlled by a second microbit, the ScaraBot Radio Controller, through radio frequency communication. 
+ScaraBot Evo can be remote-controlled by a second microbit, the **ScaraBot Radio Controller**, through radio frequency communication. 
 The **ScaraBot Radio Controller** is like a joypad and depending by how you move it, it sends specifics radio commands to the ScaraBot Evo Robot; for instance: if you roll-down the ScaraBot Radio Controller, it sends the "forward" message to ScaraBot EVO robot.
+
+In order to use the ScaraBot in the _radio-controlled mode_ you need to:
+1. upload [this ScaraBotEvo.hex code](https://github.com/cyberparra/Scarabotevo/blob/master/microbit-ScarabotEvo.hex) into ScaraBot EVO Robot
+2. upload [this ScaraBotController.hex code ](https://github.com/cyberparra/Scarabotevo/blob/master/microbit-ScarabotController.hex) into ScaraBot Radio Contoller
 
 
 ## Programming 
@@ -31,7 +35,7 @@ You can create and updload a specific program into the micobit to generate the d
 
 Here an example of programmed ScaraBot EVO in action: https://youtu.be/HeQIrRYyBCM
 
-
+In order to use the ScaraBot in the _programming mode_ you can use [this motors library.hex code](https://github.com/cyberparra/Scarabotevo/blob/master/microbit-ScarabotEVO-motors-library.hex) 
 
 # Components
 The build a ScaraBot EVO Robot you need:
