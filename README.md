@@ -10,12 +10,23 @@ ScaraBot Evo has also an OLED display to shows messages
 ![ScaraBotEvo](ScaraBotEvo.jpg)
 
 
+# Features
+
 The ScaraBot Evo is formed by two main parts:
 - **ScaraBot EVO robot**
 - **ScaraBot Radio Controller**
 
+ScaraBot EVO can make  drawings in two ways
+
+## Remote radio control
+
 ScaraBot Evo can be remote-controlled by a second microbit, the ScaraBot Radio Controller, through radio frequency communication. 
 The **ScaraBot Radio Controller** is like a joypad and depending by how you move it, it sends specifics radio commands to the ScaraBot Evo Robot; for instance: if you roll-down the ScaraBot Radio Controller, it sends the "forward" message to ScaraBot EVO robot.
+
+
+## Programming 
+You can create and updload a specific program into the micobit that generates the desired drawing  
+
 
 # Components
 The build a ScaraBot EVO Robot you need:
