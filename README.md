@@ -69,4 +69,28 @@ The ScaraBot's chassis has been designed with Tinkercad and 3D printed
 
 ![Chassis](scarabotevo3D.png)
 
-You can download the [STL file](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed  
+You can download the [3D file (STL)](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed, or design your own chassis
+
+## OLED Display
+
+The ScaraBot EVO has an OLED display to show messages and data. You can modify the program and decide which messages/data to display and when.
+
+![OLED](ScaraBotOLED.jpg)
+
+The OLED display connects to Microbit using four wires:
+
+* two for power
+  * +3V to PIN 18
+  * GND to PIN 21
+* two for data
+  * SCL to PIN 19
+  * SDA to PIN 20
+
+![OLEDWiring](OLEDwiring.jpg)
+
+In order to program the OLED, you must to add a package inside the microbit.
+Got to _Add Package_ menu inside the _makecode.microbit_ editor and look for tinkeracademy-tinker-kit-
+
+![OLEDpackage](OLEDpackage.jpg)
+
+When this package is installed e new OLED category appears with several coding blocks inside
