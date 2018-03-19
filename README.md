@@ -47,12 +47,12 @@ The build a ScaraBot EVO Robot you need:
 - 1x Motor Drive board for microbit
 - 1x 4.5 - 6V Power Supply  
 - 1x Servo motor
-- 1x DIY Chassis
+- 1x DIY Chassis and Ring for the pen
 - Screws, wires and jumpers
 
 Options
-- 1x OLED
-- 1x DIY holder
+- 1x OLED Display
+- 1x DIY OLED holder
 
 You also need:
 - 1x microbit card for ScaraBot Radio Contoller
@@ -73,13 +73,22 @@ The ScaraBot's chassis has been designed with Tinkercad and 3D printed
 
 You can download the [3D file (STL)](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed, or design your own chassis
 
-## The ring for pen
+## Ring
 
 In order to lift the pen on and off, the pen should have a thicker part in the middle that can be touched by servo motor's arm. To do that I have designed a cylindrical ring with a larger disk on the base.
 
 ![penring](penring.png)
 
-The marker pen has to be inserted inside the  ring; a rubber band around the ring will allow it to stick to the pen
+The marker pen has to be inserted inside the  ring; a rubber band around the ring will allow it to stick to the pen.
+Here is the [Pen Ring 3D file](https://github.com/cyberparra/Scarabotevo/blob/master/penring.stl) 
+
+
+## OLED Holder
+
+The OLED display can be mounted on this holder which can also host the LIPO battery, as in my case.
+![Holder](OLEDholder.png)
+
+Here is the [OLED Holder 3D file](https://github.com/cyberparra/Scarabotevo/blob/master/OLEDholder.stl) 
 
 
 # OLED Display
