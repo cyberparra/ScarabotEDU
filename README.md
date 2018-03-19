@@ -71,6 +71,15 @@ The ScaraBot's chassis has been designed with Tinkercad and 3D printed
 
 You can download the [3D file (STL)](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed, or design your own chassis
 
+# The ring for pen
+
+In order to lift the pen on and off, the pen should have a thicker part in the middle that can be touched by servo motor's arm. To do that I have designed a cylindrical ring with a larger disk on the base.
+
+![penring](penring.png)
+
+The marker pen has to be inserted inside the  ring; a rubber band around the ring will allow it to stick to the pen
+
+
 ## OLED Display
 
 The ScaraBot EVO has an OLED display to show messages and data. You can modify the program and decide which messages/data to display and when.
