@@ -63,33 +63,6 @@ The wiring diagram between the microbit's pins and the motors
 
 ![Wiring](ScarabotWiring.jpg)
 
-# 3D parts
-
-## Chassis
-
-The ScaraBot's chassis has been designed with Tinkercad and 3D printed
-
-![Chassis](scarabotevo3D.png)
-
-You can download the [3D file (STL)](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed, or design your own chassis
-
-## Ring
-
-In order to lift the pen on and off, the pen should have a thicker part in the middle that can be touched by servo motor's arm. To do that I have designed a cylindrical ring with a larger disk on the base.
-
-![penring](penring.png)
-
-The marker pen has to be inserted inside the  ring; a rubber band around the ring will allow it to stick to the pen.
-Here is the [Pen Ring 3D file](https://github.com/cyberparra/Scarabotevo/blob/master/penring.stl) 
-
-
-## OLED Holder
-
-The OLED display can be mounted on this holder which can also host the LIPO battery, as in my case.
-![Holder](OLEDholder.png)
-
-Here is the [OLED Holder 3D file](https://github.com/cyberparra/Scarabotevo/blob/master/OLEDholder.stl) 
-
 
 # OLED Display
 
@@ -117,5 +90,35 @@ Got to _Add Package_ menu inside the _makecode.microbit_ editor and look for tin
 ![OLEDpackage](OLEDpackage.jpg)
 
 When this package is installed a new OLED category appears with several new coding blocks inside it
+
+
+# 3D parts
+
+## Chassis
+
+The ScaraBot's chassis has been designed with Tinkercad and 3D printed
+
+![Chassis](scarabotevo3D.png)
+
+You can download the [3D file (STL)](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed, or design your own chassis
+
+## Ring
+
+In order to lift the pen on and off, the pen should have a thicker part in the middle that can be touched by servo motor's arm. To do that I have designed a cylindrical ring with a larger disk on the base.
+
+![penring](penring.png)
+
+The marker pen has to be inserted inside the  ring; a rubber band around the ring will allow it to stick to the pen.
+
+Here is the [Pen Ring 3D file](https://github.com/cyberparra/Scarabotevo/blob/master/penring.stl) 
+
+
+## OLED Holder
+
+The OLED display can be mounted on this holder which can also host the LIPO battery, as in my case.
+
+![Holder](OLEDholder.png)
+
+Here is the [OLED Holder 3D file](https://github.com/cyberparra/Scarabotevo/blob/master/OLEDholder.stl) 
 
 
