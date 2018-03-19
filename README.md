@@ -63,7 +63,9 @@ The wiring diagram between the microbit's pins and the motors
 
 ![Wiring](ScarabotWiring.jpg)
 
-# Chassis
+# 3D parts
+
+## Chassis
 
 The ScaraBot's chassis has been designed with Tinkercad and 3D printed
 
@@ -71,7 +73,7 @@ The ScaraBot's chassis has been designed with Tinkercad and 3D printed
 
 You can download the [3D file (STL)](https://github.com/cyberparra/Scarabotevo/blob/master/ScaraBot%20EVO.stl) ready to be printed, or design your own chassis
 
-# The ring for pen
+## The ring for pen
 
 In order to lift the pen on and off, the pen should have a thicker part in the middle that can be touched by servo motor's arm. To do that I have designed a cylindrical ring with a larger disk on the base.
 
@@ -80,7 +82,7 @@ In order to lift the pen on and off, the pen should have a thicker part in the m
 The marker pen has to be inserted inside the  ring; a rubber band around the ring will allow it to stick to the pen
 
 
-## OLED Display
+# OLED Display
 
 The ScaraBot EVO has an OLED display to show messages and data. You can modify the program and decide which messages/data to display and when.
 
@@ -98,7 +100,7 @@ The OLED display connects to Microbit using four wires:
 ![OLEDWiring](OLEDwiring.jpg)
 
 
-### Coding the OLED
+## Coding the OLED
 
 In order to program the OLED, you must to add a package inside the microbit.
 Got to _Add Package_ menu inside the _makecode.microbit_ editor and look for tinkeracademy-tinker-kit-
