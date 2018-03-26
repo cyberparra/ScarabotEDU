@@ -29,7 +29,7 @@ In order to use the ScaraBot in the _radio-controlled mode_ you need to:
 
 
 ## Programming 
-You can create and updload a specific program into the micobit to generate the desired drawings. I have created a library of motor's commands to reduce your coding time, and making it easier. You don't need to think about wich PIN has to be set on/off to obtain a specific movement: just drag the block function you need.
+You can create and upload a specific program into the micobit to generate the desired drawings. I have created a library of motor's commands to reduce your coding time, and making it easier. You don't need to think about wich PIN has to be set on/off to obtain a specific movement: just drag the block function you need.
 
 ![library](motorslibrary.png)
 
